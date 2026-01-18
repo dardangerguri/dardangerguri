@@ -9,6 +9,12 @@
 
 ### 📌 Projects
 
+- **[Full Stack Open](https://github.com/dardangerguri/FullStackOpen) | Full Stack Web Applications 🌐**
+
+  Completed projects from the University of Helsinki’s Full Stack Open course. Developed full stack web applications using React, Node.js, Express, and MongoDB. Designed and integrated REST and GraphQL APIs. Deployed applications to cloud platforms with continuous integration and delivery workflows. Implemented automated testing with Jest and Cypress to ensure code quality. Maintained version control and collaborative workflows with Git and GitHub.
+  
+  🛠️ • React • Node.js & Express • JavaScript & TypeScript • GraphQL • Docker & Docker Compose • CI/CD • React Native • PostgreSQL • MongoDB
+
 - **[ft_transcendence](https://github.com/dardangerguri/ft_transcendence) | Real-Time Pong Game Website 🌐**
 
   Developed a dynamic Pong game website using Python with Django for the backend, and PostgreSQL for database management. Designed an engaging user interface with HTML, CSS, and JavaScript, integrating live gameplay and real-time chat functionality for seamless interaction.
